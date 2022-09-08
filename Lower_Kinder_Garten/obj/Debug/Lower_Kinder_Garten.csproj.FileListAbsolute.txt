@@ -1,0 +1,26 @@
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\bin\Debug\Lower_Kinder_Garten.exe.config
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\bin\Debug\Lower_Kinder_Garten.exe
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\bin\Debug\Lower_Kinder_Garten.pdb
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.csprojResolveAssemblyReference.cache
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Form1.resources
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Properties.Resources.resources
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.csproj.GenerateResource.Cache
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.exe
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.pdb
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Guide.resources
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Alphabet.resources
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.words.resources
+C:\Users\Isuru\Desktop\SmartClass\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Pannels.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\bin\Debug\Lower_Kinder_Garten.exe.config
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.exe
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.pdb
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\bin\Debug\Lower_Kinder_Garten.exe
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\bin\Debug\Lower_Kinder_Garten.pdb
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.csprojResolveAssemblyReference.cache
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Alphabet.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Form1.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.words.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Guide.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Pannels.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.Properties.Resources.resources
+D:\sevitha\C# Applications\Lower_Kinder_Garten\Lower_Kinder_Garten\obj\Debug\Lower_Kinder_Garten.csproj.GenerateResource.Cache
